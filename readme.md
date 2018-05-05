@@ -116,6 +116,10 @@
 
 7、[DroidDLNA](https://github.com/offbye/DroidDLNA "DroidDLNA") 用于实现DLNA视频投屏服务，内部核心采用[Cling](https://github.com/4thline/cling "cling") DLNA库   
 
+# 衍生项目  
+由小盒精灵衍生出来的APP项目  
+1、[云播投屏](https://github.com/yunbotouping/- "云播投屏") 
+
 # 交流QQ群  
 QQ群号：7149348， 加入QQ群可以分享直播源、反馈问题及建议。  
 
